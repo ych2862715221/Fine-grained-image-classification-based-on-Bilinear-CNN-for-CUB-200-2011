@@ -8,7 +8,7 @@ The Caltech-UCSD Birds-200-2011 Dataset（CUB-200-2011）
 
 加州理工学院-加州大学洛杉矶分校Birds-200-2011（CUB-200-2011）数据集是最广泛使用的细粒度视觉分类任务数据集。该数据集包含属于鸟类的 200 个子类别的 11,788 张图像，其中 5,994 张用于训练，5,794 张用于测试。每张图像都有详细的注释： 1 个子类别标签、15 个部分位置、312 个二进制属性和 1 个边界框。文本信息来自 Reed 等人。他们通过收集精细的自然语言描述来扩展 CUB-200-2011 数据集。他们为每幅图像收集了 10 个单句描述。自然语言描述是通过 Amazon Mechanical Turk（AMT）平台收集的，要求至少 10 个单词，不包含任何子类别和操作信息。
 
-![dataset](E:/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%9B%B8%E5%85%B3%E9%A1%B9%E7%9B%AE/%E5%9F%BA%E4%BA%8EBilinear-VGG%E7%9A%84CUB-200-2011%E7%9A%84%E7%BB%86%E7%B2%92%E5%BA%A6%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB/README/dataset.jpg)
+![dataset](./%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%9B%B8%E5%85%B3%E9%A1%B9%E7%9B%AE/%E5%9F%BA%E4%BA%8EBilinear-VGG%E7%9A%84CUB-200-2011%E7%9A%84%E7%BB%86%E7%B2%92%E5%BA%A6%E5%9B%BE%E5%83%8F%E5%88%86%E7%B1%BB/README/dataset.jpg)
 
 ## 双线性卷积网络介绍( Introduction to Bilinear Convolutional Networks)
 
